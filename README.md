@@ -1,1 +1,1 @@
-# Private-AI
+# Exploring AI
